@@ -24,3 +24,16 @@
 - [Turn Biotechnologies](https://www.turn.bio/): Turn Biotechnologies develops mRNA medicines that induce the body to heal itself by instructing specific cells to fight disease or repair damaged tissue. We are focused on reprogramming the epigenome – a network of chemical compounds and proteins that control cell functions by influencing which genes are active – to restore capabilities that are often lost with age.
 
 - [VitaDao](https://vitadao.com): A DAO collective funding and advancing longevity research.
+
+## People To follow
+- [Aubrey De Grey](https://twitter.com/aubreydegrey/)
+- [Celine Haliqua](https://twitter.com/celinehalioua)
+- [David Sinclair](https://twitter.com/davidasinclair)
+- [George Church](https://twitter.com/geochurch)
+- [Keith Comito](https://twitter.com/keithcomito)
+- [Kristen Fortney](https://twitter.com/kpfortney)
+- [Lada Nuzhna](https://twitter.com/LNuzhna)
+- [Laura Deming](https://twitter.com/LauraDeming)
+- [Nathan Cheng](https://twitter.com/realnathancheng)
+- [Tim Peterson](https://twitter.com/timrpeterson)
+- [Vincent Weisser](https://twitter.com/vincentweisser)
